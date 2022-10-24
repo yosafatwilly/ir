@@ -1,0 +1,8 @@
+#inputSearch:hover {
+    border-color: rgba(0, 0, 0, 0.30) !important;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.30) !important;
+    border-radius: 100px
+}
+#svg:hover, #svg:focus {
+    fill: #f96332;
+}

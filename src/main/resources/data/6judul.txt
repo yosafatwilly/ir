@@ -1,0 +1,6 @@
+1	John memberi buku-buku cinta kepada Mary
+2	Buku-buku cinta yang diberi kepada Mary adalah tanda cinta John
+3	Apakah Mary akan mencintai John?
+4	Apakah pertemuan Jokowi-Prabowo berhasil?
+5	Pertemuan Jokowi-Prabowo untuk Persatuan Indonesia
+6	Inilah efek pertemuan Jokowi-Prabowo untuk Indonesia

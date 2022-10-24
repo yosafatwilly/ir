@@ -1,0 +1,10 @@
+1	Sistem Informasi Sinergi Komunikasi Basis Web
+2	Perancangan Sistem Informasi Absensi Dosen dan Mahasiswa Basis WEB Fakultas MIPA Universitas Sumatera Utara
+3	Perancangan Sistem Informasi Basis Web Pada Sekolah Tinggi Agama Islam Mahmudiyah Menggunakan Php
+4	Perancangan Sistem Informasi Basis Web Pada MAN 2 Tanjungpura Menggunakan PHP
+5	Perancangan Sistem Informasi Basis SMS dan Implementasinya di Sekolah Menengah Atas Panca Budi Medan
+6	Analisis Faktor - Faktor Yang Mempengaruhi Inflasi Di Indonesia
+7	Analisis Faktor - Faktor Yang Mempengaruhi Alokasi KUK Pada Bank-Bank Umum di Indonesia
+8	Analisis Faktor - Faktor Yang Mempengaruhi Konsumsi Masyarakat Di Indonesia
+9	Analisis Faktor - Faktor Yang Mempengaruhi Permintaan Asuransi Mitra Beasiswa Pada Bumiputera
+10	Analisis Faktor - Faktor Yang Mempengaruhi PMA Di Yogyakarta
